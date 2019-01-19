@@ -6,8 +6,11 @@ The first temp:relevance analysis ,delete the low covariance attribute
 The second temp:process the missing data: treat unknown as a class  
 The third temp: data Normalization 
 # Model select
+ Logistic Regression  
 ![Image text](https://raw.githubusercontent.com/Bo-L/UCI-Bank-Marketing-Data-Set/master/picture/lr.png)  
-![Image text](https://raw.githubusercontent.com/Bo-L/UCI-Bank-Marketing-Data-Set/master/picture/knn.png)   
+ KNN  
+![Image text](https://raw.githubusercontent.com/Bo-L/UCI-Bank-Marketing-Data-Set/master/picture/knn.png)  
+ Random Forest  
 ![Image text](https://raw.githubusercontent.com/Bo-L/UCI-Bank-Marketing-Data-Set/master/picture/rf.png)  
 # The Experiment_second
 process the missing data: delete the known data
